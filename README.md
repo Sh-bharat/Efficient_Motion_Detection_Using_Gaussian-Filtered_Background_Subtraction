@@ -6,7 +6,7 @@ This Python script implements a real-time motion detection system using Gaussian
 
 ## Overview
 
-The system captures video frames from a webcam, applies Gaussian blur to reduce noise, computes differences between frames, and uses thresholding to detect and display motion areas in real-time.
+The system captures video frames from a webcam or vedio source , applies Gaussian blur to reduce noise, computes differences between frames, and uses thresholding to detect and display motion areas in real-time.
 
 ## Features
 
@@ -38,7 +38,7 @@ The system captures video frames from a webcam, applies Gaussian blur to reduce 
    
 
 2. **Operation:**
-   - The script captures video from the default webcam.
+   - The script captures video from the default input.
    - Press the 'Esc' key to exit.
 
 ## Code Description
@@ -49,7 +49,11 @@ The system captures video frames from a webcam, applies Gaussian blur to reduce 
 
 ## Example Output
 
-https://github.com/Sh-bharat/Efficient_Motion_Detection_Using_Gaussian-Filtered_Background_Subtraction/assets/133742551/f8cec005-87b1-4e30-90da-2ef1aa9840a2
+
+
+https://github.com/Sh-bharat/Efficient_Motion_Detection_Using_Gaussian-Filtered_Background_Subtraction/assets/133742551/fb283825-bf35-4b21-8e69-58eb7c0acd0b
+
+
 
 
 
